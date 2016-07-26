@@ -3,9 +3,9 @@
     <sys_app_application action="INSERT_OR_UPDATE">
         <active>true</active>
         <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
-        <description>This is a description</description>
+        <description>The ServiceNow Store is the official marketplace to test and purchase certified applications that run in ServiceNow</description>
         <device_type>browser</device_type>
-        <hint>This is a hint</hint>
+        <hint>The ServiceNow Store is the official marketplace to test and purchase certified applications that run in ServiceNow</hint>
         <name/>
         <order>100</order>
         <roles/>
@@ -16,7 +16,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>121551e2db30220061095740cf9619d5</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>ServiceNow Store</sys_name>
         <sys_overrides/>
         <sys_package display_value="ServiceNow Store Link" source="x_68103_servicenow">d660d122db30220061095740cf9619c1</sys_package>
@@ -25,7 +25,7 @@
         <sys_scope display_value="ServiceNow Store Link">d660d122db30220061095740cf9619c1</sys_scope>
         <sys_update_name>sys_app_application_121551e2db30220061095740cf9619d5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2016-07-26 17:15:48</sys_updated_on>
+        <sys_updated_on>2016-07-26 17:27:15</sys_updated_on>
         <title>ServiceNow Store</title>
         <view_name/>
     </sys_app_application>
